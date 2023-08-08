@@ -1,2 +1,2 @@
 # Banking_System
-This is a bank management system project in C++ built using the concepts of object oriented programming, file handling, data structure etc.
+Developed a comprehensive Banking System using C++ and Object-Oriented Programming (OOP) principles. The project includes two main classes: "Account" and "Bank," each with specialized functions. Implemented features such as account creation, balance inquiries, deposits, withdrawals, and account closure. Utilized file handling for data persistence. Demonstrated proficiency in C++ programming, OOP design, and data management within a simulated banking environment.
