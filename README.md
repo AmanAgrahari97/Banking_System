@@ -1,2 +1,2 @@
 # Banking_System
-Bank Management System in C++
+This is a bank management system project in C++ built using the concepts of object oriented programming, file handling, data structure etc.
